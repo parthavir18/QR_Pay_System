@@ -83,6 +83,5 @@ We envision a future where small businesses, street vendors, and online merchant
 - Security audit and formal verification
 - SDK development for easy integration by third-party developers
 
----
-
-**Built with Soroban SDK on Stellar Blockchain**
+## Contract Details
+Contact id: GD6FSIS3H5C6JWHL5VWAOK27OAK7MEXZUSUS47YQKPLL4CHHRYAUUQ73
